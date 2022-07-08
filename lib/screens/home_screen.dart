@@ -28,6 +28,8 @@ class _HomeScreenState extends State<HomeScreen> {
           children: [
             CardSwiper(),
             MovieSlider(),
+            MovieSlider(),
+            MovieSlider(),
           ],
         ),
       ),
